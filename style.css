@@ -101,3 +101,35 @@
 .courses .card-footer p img{
     width: 15px;
 }
+
+
+.testimonials{
+    margin-top: 100px;
+}
+
+.testimonials h1{
+    margin-bottom: 80px;
+}
+
+.testimonials img{
+    margin-right: 40px;
+}
+
+
+#footer{
+    background: #282531;
+    padding: 80px 0;
+    margin-top: 150px;
+}
+
+#footer p{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#footer li{
+    list-style-type: none;
+    margin-left: -30px;
+    font-size: 14px;
+}
+
